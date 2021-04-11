@@ -1,5 +1,7 @@
 # About 2020/21 CSC 5741: Data Mining and Warehousing
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lightonphiri/misc-unza21-csc5741/HEAD)
+
 2020/21 CSC 5741 is a graduate-level course, offered in the [Department of Computer Science](http://cs.unza.zm) [1] at [The University of Zambia](https://www.unza.zm) [2]. CSC 5741 addresses the concepts, skills, methodologies, and models of data warehousing and data mining. The students are introduced to appropriate techniques for designing data warehouses for various business domains and, concepts for potential uses of the data warehouse and mining opportunities. CSC 5741 also provides students with fundamental concepts and algorithms in the knowledge discovery process such as data pre-processing, data mining and post-process evaluation.
 
 ## Learning Outcomes
